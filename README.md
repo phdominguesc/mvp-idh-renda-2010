@@ -11,3 +11,7 @@ O objetivo é analisar a relação entre a renda média domiciliar per capita e 
 - `sql/`: scripts SQL de carga, tratamento, modelagem e análises
 - `notebook/`: export do notebook do Databricks
 - `evidencias/`: screenshots/vídeos comprovando execução e resultados no Databricks
+
+## Evidências
+As evidências de execução das etapas de carga, modelagem e análise estão disponíveis
+na pasta `evidencias/`, contendo screenshots das queries e resultados obtidos no Databricks.
